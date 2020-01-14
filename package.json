@@ -1,5 +1,5 @@
 {
-  "name": "learn.template2",
+  "name": "learn.template3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ponchicken/learn.template2.git"
+    "url": "git+https://github.com/ponchicken/learn.template3.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ponchicken/learn.template2/issues"
+    "url": "https://github.com/ponchicken/learn.template3/issues"
   },
-  "homepage": "https://github.com/ponchicken/learn.template2#readme",
+  "homepage": "https://github.com/ponchicken/learn.template3#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "posthtml": "^0.12.0",
