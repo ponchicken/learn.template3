@@ -1,0 +1,29 @@
+/*.header {
+  padding: 50px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 30px;
+}
+.header a {
+  text-decoration: none;
+  color: white;
+}
+
+.header-menu ul {
+  display: flex;
+  list-style: none;
+  margin: 0 -30px;
+  padding: 0;
+}
+.header-menu {
+  display: flex;
+  justify-self: right;
+}
+
+.header-menu li {
+  margin: 0 30px;
+}
+
+.header-logo {
+  justify-self: left;
+} */
