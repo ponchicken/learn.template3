@@ -1,5 +1,17 @@
 body {
   margin: auto;
-  background-color: white;
+  width: 1440px;
+  background-color: black;
   color: black;
+  font-family: "Poppins", sans-serif;
+}
+
+.top-container {
+  background-image: url(/images/back1.jpg);
+  background-repeat: no-repeat;
+}
+.bottom-container {
+  margin-top: 320px;
+  background-image: url(/images/back2.jpg);
+  background-repeat: no-repeat;
 }
