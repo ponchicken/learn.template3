@@ -1,0 +1,29 @@
+.header {
+  padding: 50px 64px;
+  display: flex;
+  justify-content: space-between;
+}
+a {
+  text-decoration: none;
+}
+
+.header-menu ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.header-menu {
+  font-size: 14px;
+  line-height: 29px;
+}
+
+.header-menu li {
+  margin: 0 24px;
+}
+
+.header-logo {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 29px;
+}
