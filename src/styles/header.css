@@ -27,3 +27,14 @@ a {
   font-size: 14px;
   line-height: 29px;
 }
+
+.header-don-but {
+  width: 72px;
+  height: 27px;
+  background: rgba(253, 180, 97, 0.82);
+  border-radius: 4px;
+  font-family: Poppins;
+  font-size: 14px;
+  color: rgba(62, 34, 3, 0.82);
+  border-style: none;
+}

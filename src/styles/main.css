@@ -15,3 +15,54 @@ body {
   background-image: url(/images/back2.jpg);
   background-repeat: no-repeat;
 }
+
+.all-title {
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+h1 {
+  width: 713px;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 86px;
+  color: #000000;
+}
+
+p {
+  width: 639px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 32px;
+  color: rgba(0, 0, 0, 0.8);
+  /* КАК МЕЖДУ БУКВАМИ РАССТРОЯНИЕ УЛАДИТЬ? letter-spacing: initial;*/
+}
+
+/*если без нулей, то устанаваливает какие-то стандартные отступы*/
+.parag16 {
+  margin: 0 0 16px 0;
+}
+.parag24 {
+  margin: 0 0 24px 0;
+}
+.parag32 {
+  margin: 0 0 32px 0;
+}
+
+
+
+/*ПОЧЕМУ НЕ НАСЛЕДУЕТСЯ ОТ ДОНАТЕ_БАТТОНС, ПОТОМУ ЧТО БАТТОНС?
+ИЗМЕНИТЬ У КНОПОК ШИРИНУ? + ШРИФТ ПРИ МАСШТАБЕ ВЫЛАЗАЕТ*/
+.all-but-donate {
+  width: 150px;
+  background: rgba(253, 180, 97, 0.82);
+  margin: 0 24px 0 0;
+
+  font-family: "Poppins";
+  border-radius: 8px;
+  border-style: none;
+  font-weight: 600;
+  font-size: 18px;
+  height: 51px;
+  color: rgba(62, 34, 3, 0.82);
+}
