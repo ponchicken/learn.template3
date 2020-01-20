@@ -25,4 +25,5 @@
   font-size: 18px;
   height: 51px;
   color: rgba(62, 34, 3, 0.82);
+  white-space: nowrap;
 }

@@ -37,4 +37,5 @@ a {
   font-size: 14px;
   color: rgba(62, 34, 3, 0.82);
   border-style: none;
+  white-space: nowrap;
 }
