@@ -26,21 +26,18 @@ body {
 }
 
 h1 {
-  width: 713px;
+  width: 999px;
   font-weight: bold;
   font-size: 72px;
   line-height: 86px;
 }
 
 p {
-  width: 639px;
+  width: 627px;
   font-weight: 500;
   font-size: 18px;
   line-height: 32px;
-  /* КАК МЕЖДУ БУКВАМИ РАССТРОЯНИЕ УЛАДИТЬ? letter-spacing: initial;*/
 }
-
-/*если без нулей, то устанаваливает какие-то стандартные отступы*/
 .parag16 {
   margin: 0 0 16px 0;
 }
@@ -51,8 +48,6 @@ p {
   margin: 0 0 32px 0;
 }
 
-/*ПОЧЕМУ НЕ НАСЛЕДУЕТСЯ ОТ ДОНАТЕ_БАТТОНС, ПОТОМУ ЧТО БАТТОНС?
-ИЗМЕНИТЬ У КНОПОК ШИРИНУ? + ШРИФТ ПРИ МАСШТАБЕ ВЫЛАЗАЕТ*/
 .all-but-donate {
   width: 150px;
   background: rgba(253, 180, 97, 0.82);
@@ -67,13 +62,37 @@ p {
   color: rgba(62, 34, 3, 0.82);
 }
 
-.all-link {
+.all-link a {
+  color: rgba(253, 180, 97, 0.82);
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  text-transform: uppercase;
+  border-bottom: 2px solid rgba(253, 180, 97, 0.82);
 }
-.all-feedback-logo {
+
+.all-feedback-logo img {
+  border-radius: 50%;
+  margin: 0;
 }
-.all-feedback-text {
+blockquote {
+  margin: 0;
+
+  font-style: italic;
+  font-size: 18px;
+  line-height: 27px;
 }
-.all-feedback-text1 {
+
+.all-feedback-text .all-feedback-text1 {
+  margin: 0 0 16px 24px;
+  font-size: 18px;
+  line-height: 27px;
+  width: 543px;
 }
 .all-feedback-name {
+  margin: 0 0 0 24px;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 18px;
+  line-height: 27px;
+  font-style: italic;
 }

@@ -1,0 +1,11 @@
+.downdonate-but-learnmore {
+  width: 142px;
+  border: 2px solid rgba(253, 180, 97, 0.82);
+  font-family: "Poppins";
+  border-radius: 8px;
+  background: none;
+  font-weight: 600;
+  font-size: 18px;
+  height: 51px;
+  color: rgba(253, 180, 97, 0.82);
+}

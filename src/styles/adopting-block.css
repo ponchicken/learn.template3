@@ -24,11 +24,14 @@
   z-index: 0;
 }
 
+.adopting-feedback {
+  margin: 120px 150px 108px 0;
+  display: flex;
+}
 .adopting-textblock {
+  width: 640px;
 }
 .adopting-text {
 }
 .adopting-paragraphs {
-}
-.adopting-feedback {
 }
