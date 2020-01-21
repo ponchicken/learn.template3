@@ -2,7 +2,7 @@ body {
   margin: auto;
   width: 1440px;
   background-color: black;
-  color: black;
+  color: white;
   font-family: "Poppins", sans-serif;
 }
 
@@ -21,12 +21,15 @@ body {
   margin-bottom: 40px;
 }
 
+.text-black {
+  color: black;
+}
+
 h1 {
   width: 713px;
   font-weight: bold;
   font-size: 72px;
   line-height: 86px;
-  color: #000000;
 }
 
 p {
@@ -34,7 +37,6 @@ p {
   font-weight: 500;
   font-size: 18px;
   line-height: 32px;
-  color: rgba(0, 0, 0, 0.8);
   /* КАК МЕЖДУ БУКВАМИ РАССТРОЯНИЕ УЛАДИТЬ? letter-spacing: initial;*/
 }
 
@@ -48,8 +50,6 @@ p {
 .parag32 {
   margin: 0 0 32px 0;
 }
-
-
 
 /*ПОЧЕМУ НЕ НАСЛЕДУЕТСЯ ОТ ДОНАТЕ_БАТТОНС, ПОТОМУ ЧТО БАТТОНС?
 ИЗМЕНИТЬ У КНОПОК ШИРИНУ? + ШРИФТ ПРИ МАСШТАБЕ ВЫЛАЗАЕТ*/
@@ -65,4 +65,15 @@ p {
   font-size: 18px;
   height: 51px;
   color: rgba(62, 34, 3, 0.82);
+}
+
+.all-link {
+}
+.all-feedback-logo {
+}
+.all-feedback-text {
+}
+.all-feedback-text1 {
+}
+.all-feedback-name {
 }
