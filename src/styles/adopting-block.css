@@ -21,7 +21,7 @@
 .adopting-pic3 {
   position: relative;
   margin: 47px 46px;
-  z-index: 0;
+  z-index: 1;
 }
 
 .adopting-feedback {

@@ -12,6 +12,7 @@ body {
 }
 .bottom-container {
   margin-top: 320px;
+  height: 2158px;
   background-image: url(/images/back2.jpg);
   background-repeat: no-repeat;
 }
