@@ -1,0 +1,42 @@
+.volonteer-block {
+  margin: 0 126px 378px 126px;
+  width: 1160px;
+  height: 1000px;
+  display: flex;
+}
+.volonteer-images {
+  width: 520px;
+  margin: 108px 0 0 0;
+  position: relative;
+}
+.volonteer-pic1 {
+  z-index: 2;
+  position: relative;
+}
+.volonteer-pic2 {
+  z-index: 1;
+  position: relative;
+  margin: -560px 0 0 160px;
+}
+.volonteer-pic3 {
+  z-index: 0;
+  position: relative;
+  margin: -85px 0 0 205px;
+}
+.volonteer-textblock {
+  width: 640px;
+  margin: 0 107px 120px 0;
+  height: 1000px;
+}
+.volonteer-text {
+}
+.volonteer-feedback {
+  margin: 120px 0 0 0;
+}
+.volonteer-feed1 {
+  display: flex;
+}
+.volonteer-feed2 {
+  margin: 40px 0 0 0;
+  display: flex;
+}

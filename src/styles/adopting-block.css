@@ -1,0 +1,37 @@
+.adopting-block {
+  margin: 500px 142px 0 142px;
+  width: 1160px;
+  height: 910px;
+  display: flex;
+}
+.adopting-images {
+  width: 520px;
+  margin: 0;
+  position: relative;
+}
+.adopting-pic1 {
+  z-index: 3;
+  position: relative;
+}
+.adopting-pic2 {
+  margin: -258px 200px;
+  z-index: 2;
+  position: relative;
+}
+.adopting-pic3 {
+  position: relative;
+  margin: 47px 46px;
+  z-index: 1;
+}
+
+.adopting-feedback {
+  margin: 120px 150px 108px 0;
+  display: flex;
+}
+.adopting-textblock {
+  width: 640px;
+}
+.adopting-text {
+}
+.adopting-paragraphs {
+}

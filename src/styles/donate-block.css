@@ -1,0 +1,27 @@
+.donate-block {
+  margin: 218px 0 0 173px;
+  width: 713px;
+}
+
+.donate-but-learnmore {
+  width: 142px;
+  border: 2px solid rgba(62, 34, 3, 0.82);
+  font-family: "Poppins";
+  border-radius: 8px;
+  background: none;
+  font-weight: 600;
+  font-size: 18px;
+  height: 51px;
+  color: rgba(62, 34, 3, 0.82);
+}
+.donate-buttons {
+  width: 500px;
+  font-family: "Poppins";
+  border-radius: 8px;
+  border-style: none;
+  font-weight: 600;
+  font-size: 18px;
+  height: 51px;
+  color: rgba(62, 34, 3, 0.82);
+  white-space: nowrap;
+}
